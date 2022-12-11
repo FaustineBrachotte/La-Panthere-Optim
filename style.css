@@ -153,6 +153,20 @@ a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
+.d-bloc a:hover .icon-md {
+    animation: .4s forwards icon-anim
+}
+
+@keyframes icon-anim {
+    0% {
+        transform: rotate(-360deg)
+    }
+
+    100% {
+        transform: rotate(0)
+    }
+}
+
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
 }
@@ -485,6 +499,21 @@ button {
 
 .sm-shadow {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .3);
+}
+
+.text-small {
+    font-size: 12px;
+}
+
+.quote q {
+    font-size: 18px;
+    font-style: italic;
+    color: #575757
+}
+
+.quote p {
+    padding-top: 10px;
+    font-size: 18px;
 }
 
 .panel-sq,
