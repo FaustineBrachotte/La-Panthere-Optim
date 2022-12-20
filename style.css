@@ -736,6 +736,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    padding-bottom: 10px;
 }
 
 h3 {
@@ -864,6 +865,20 @@ h4 {
 
 .black {
     color: #000000!important;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0; 
+}
+
+:focus {
+    border:#F3976C solid 2px;
+    box-shadow: #FFF 0 0 30px;
+}
+
+.focus-black:focus {
+    box-shadow: #000 0 0 30px;
 }
 
 @media (max-width: 1024px) {
