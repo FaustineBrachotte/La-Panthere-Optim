@@ -824,6 +824,7 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    padding: 10px;
 }
 
 .ltc-white:hover {
@@ -873,12 +874,24 @@ ul {
 }
 
 :focus {
-    border:#F3976C solid 2px;
-    box-shadow: #FFF 0 0 30px;
+    border:#F3976C solid 2px!important;
+    box-shadow: #FFF 0 0 20px;
 }
 
 .focus-black:focus {
+    border:#000 solid 2px!important;
+}
+
+/*
+.btn-atomic-tangerine:focus {
+    border:#F3976C solid 2px!important;
     box-shadow: #000 0 0 30px;
+}*/
+
+.social:focus {
+    text-shadow: #000 0 0 20px;
+    border-bottom:#000 solid 2px!important;
+    box-shadow:none!important;
 }
 
 @media (max-width: 1024px) {
