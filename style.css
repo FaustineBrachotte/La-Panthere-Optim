@@ -882,12 +882,6 @@ ul {
     border:#000 solid 2px!important;
 }
 
-/*
-.btn-atomic-tangerine:focus {
-    border:#F3976C solid 2px!important;
-    box-shadow: #000 0 0 30px;
-}*/
-
 .social:focus {
     text-shadow: #000 0 0 20px;
     border-bottom:#000 solid 2px!important;
