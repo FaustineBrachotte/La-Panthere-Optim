@@ -19,13 +19,14 @@ Le site initial se trouve dans ce repo : https://github.com/FaustineBrachotte/La
 **Performance initiale du site :**
 <br>
 
-![performance-initiale](https://github.com/FaustineBrachotte/La-Panthere-V1/assets/105442482/da828f81-e36f-44ea-bdc8-acabba7d3a00)
+![performance-optim](https://github.com/FaustineBrachotte/La-Panthere-V1/assets/105442482/c70cbc01-ec58-4b64-b01e-44d1c16bd5b8)
 
 <br>
 
 **Performance après optimisation :**
 <br>
 
-![performance-optim](https://github.com/FaustineBrachotte/La-Panthere-V1/assets/105442482/1802b3f5-4acf-46c7-8158-9de9d8595fa5)
-)
+![performance-initiale](https://github.com/FaustineBrachotte/La-Panthere-V1/assets/105442482/0178fa52-cac8-4529-a3e5-77f61fdd72f8)
+
+
 
